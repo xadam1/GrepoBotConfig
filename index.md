@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to GrepoBot!
+GrepoBot is **Desktop** application made for Windows, *using .NET & WinForms.* 
+The Bot helps you do stuff automatically and skip boring grinding parts of the game. 
 
 You can use the [editor on GitHub](https://github.com/xadam1/GrepoBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
