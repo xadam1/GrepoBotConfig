@@ -26,6 +26,15 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```csharp
+var town = new Town();
+
+public static class TownHelper
+{
+  ...
+}
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
