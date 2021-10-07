@@ -2,6 +2,6 @@
 <item>
     <version>2.0.0.0</version>
     <url>https://github.com/xadam1/GrepoBot/releases/download/Beta_v2.0/GrepoBotInstaller.zip</url>
-    <changelog>https://github.com/xadam1/GrepoBot/releases</changelog>
+    <changelog>https://raw.githubusercontent.com/xadam1/GrepoBot/main/README.md</changelog>
     <mandatory>false</mandatory>
 </item>
