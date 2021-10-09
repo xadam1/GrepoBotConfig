@@ -3,5 +3,5 @@
     <version>2.1.0.0</version>
     <url>https://github.com/xadam1/GrepoBot/releases/download/Beta_v2.1.0.0/GrepoBot_v2.1.0.0.zip</url>
     <changelog>https://raw.githubusercontent.com/xadam1/GrepoBot/main/README.md</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
