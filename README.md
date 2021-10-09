@@ -1,5 +1,17 @@
 # GrepoBot ChangeLog
-====================[ Beta v2.0 ]=====================
+===================[ Beta v2.1.0.0 ]====================
++ Release Date: 9.10.2021
+* Added AutoUpdater
+* New version of Installer
+* Reworked farming in single thread
+
+Bug Fixes:
+- Whitelist updates
+- Fixed skipping farming when All storages are full
+===================================================
+
+
+===================[ Beta v2.0.0.0 ]====================
 + Release Date: 6.10.2021
 * Added reworked Building Page - still in development
 * Added GrepoBot Installer
