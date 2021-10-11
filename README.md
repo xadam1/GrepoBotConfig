@@ -1,4 +1,12 @@
 # GrepoBot ChangeLog
+
+===================[ Beta v2.1.0.1 ]====================
++ Release Date: 11.10.2021
+Bug Fixes:
+- Fixed Error when parsing already built Special Building
+===================================================
+
+
 ===================[ Beta v2.1.0.0 ]====================
 + Release Date: 9.10.2021
 * Added AutoUpdater
