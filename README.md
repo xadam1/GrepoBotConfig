@@ -1,3 +1,13 @@
+===================[ Beta v2.1.1.1 ]====================
++ Release Date: 16.10.2021
+* Improved farming console messages
+
+Bug Fixes:
+- Fixed farming on multiple islands
+- Fixed parsing of not selected god in newly colonised town
+===================================================
+
+
 ===================[ Beta v2.1.1.0 ]====================
 + Release Date: 16.10.2021
 * Third Party Items implementation
