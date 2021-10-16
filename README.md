@@ -1,4 +1,13 @@
-# GrepoBot ChangeLog
+===================[ Beta v2.1.1.0 ]====================
++ Release Date: 16.10.2021
+* Third Party Items implementation
+	* GRCR Tools can now be injected into the bot
+	* GrepoData can now be injected into the bot
+	* AttackBot can now be injected into the bot
+* Whitelist is now obtained from net
+	* Encoded usernames
+===================================================
+
 
 ===================[ Beta v2.1.0.1 ]====================
 + Release Date: 11.10.2021
