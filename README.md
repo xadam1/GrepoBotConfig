@@ -1,3 +1,14 @@
+===================[ Beta v2.1.2.0 ]====================
++ Release Date: 17.10.2021
+* GrepoBot can now relogin back when looses session (login from different device)
+* Added ability to automatically start farming after GrepoBot is loaded
+
+Bug Fixes:
+- GrepoBot does not cover taskbar
+- GrepoBot does not have rounded corners when maximized
+===================================================
+
+
 ===================[ Beta v2.1.1.1 ]====================
 + Release Date: 16.10.2021
 * Improved farming console messages
