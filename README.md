@@ -1,3 +1,11 @@
+===================[ Beta v2.1.3.0 ]====================
++ Release Date: 20.10.2021
+* GrepoBot now supports some selected ThirdParty Scripts
+* Ability to load scripts on start
+* Reinjecting scripts on reload
+===================================================
+
+
 ===================[ Beta v2.1.2.0 ]====================
 + Release Date: 17.10.2021
 * GrepoBot can now relogin back when looses session (login from different device)
