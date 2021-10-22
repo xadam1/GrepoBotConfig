@@ -1,3 +1,13 @@
+===================[ Beta v2.1.3.1 ]====================
++ Release Date: 22.10.2021
+* GrepoBot now sends notifications when storage overflows (if any kind of 'skip farming' is set)
+* User cannot switch order of farming towns or reload browser when it is farming at the moment
+
+Bug Fixes:
+- Grepolis is displayed correctly on displays with all kinds of zoom (125+ %)
+===================================================
+
+
 ===================[ Beta v2.1.3.0 ]====================
 + Release Date: 20.10.2021
 * GrepoBot now supports some selected ThirdParty Scripts
