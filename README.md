@@ -1,3 +1,8 @@
+===================[ Beta v2.1.3.2 ]====================
++ Release Date: 25.10.2021
+* GrepoBot can now be resized via bottom left corner when on Web Browser
+===================================================
+
 ===================[ Beta v2.1.3.1 ]====================
 + Release Date: 22.10.2021
 * GrepoBot now sends notifications when storage overflows (if any kind of 'skip farming' is set)
