@@ -1,3 +1,9 @@
+===================[ Beta v2.1.3.3 ]====================
++ Release Date: 3.11.2021
+* Button for resizing now does NOT show when bot is fullscreen
+===================================================
+
+
 ===================[ Beta v2.1.3.2 ]====================
 + Release Date: 25.10.2021
 * GrepoBot can now be resized via bottom left corner when on Web Browser
