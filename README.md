@@ -1,3 +1,9 @@
+===================[ Beta v3.0.0.1 ]====================
++ Release Date: 24.11.2021
+* Fixed parsing error, when player owns villages, but looses all towns on given island
+===================================================
+
+
 ===================[ Beta v3.0.0.0 ]====================
 + Release Date: 24.11.2021
 * Added Building feature (user can create building templates)
