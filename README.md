@@ -1,3 +1,10 @@
+===================[ Beta v3.0.0.0 ]====================
++ Release Date: 24.11.2021
+* Added Building feature (user can create building templates)
+* GrepoBot tries to relogin when looses internet connection
+===================================================
+
+
 ===================[ Beta v2.1.3.3 ]====================
 + Release Date: 3.11.2021
 * Button for resizing now does NOT show when bot is fullscreen
