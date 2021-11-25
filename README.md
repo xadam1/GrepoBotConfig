@@ -1,3 +1,9 @@
+===================[ Beta v3.0.0.2 ]====================
++ Release Date: 25.11.2021
+* Fixed parsing error of towns data after new game update
+===================================================
+
+
 ===================[ Beta v3.0.0.1 ]====================
 + Release Date: 24.11.2021
 * Fixed parsing error, when player owns villages, but looses all towns on given island
