@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.0.0.2</version>
-    <url>https://github.com/xadam1/GrepoBot/releases/download/Beta_v3.0.0.2/GrepoBotInstaller.zip</url>
+    <version>4.0.0.0</version>
+    <url>https://github.com/xadam1/GrepoBot/releases/download/Beta_v4.0.0.0/GrepoBotUpdate.zip</url>
     <changelog>https://raw.githubusercontent.com/xadam1/GrepoBot/main/README.md</changelog>
     <mandatory>true</mandatory>
 </item>
