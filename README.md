@@ -1,12 +1,31 @@
+===================[ Beta v4.0.0.0 ]====================
++ Release Date: 9.3.2022
+* Complete rework of server requests - much faster & more efficient approach
+* Storing Cookies - GrepoBot will now be able to remeber ingame specified settings, logged in scripts, etc.
+* User can specify farming option and intervals between farming villages and iterations
+* Added ability to use custom Island Names
+* Improved way of receiving data from server
+
+Bug Fixes:
+- Optimalization & fixed performance issues
+- Fixed sending feedback and crash reports via email
+- Fixed farming crashes when player lost all towns on Island
+===================================================
+
+
 ===================[ Beta v3.0.0.2 ]====================
 + Release Date: 25.11.2021
-* Fixed parsing error of towns data after new game update
+
+Bug Fixes:
+- Fixed parsing error of towns data after new game update
 ===================================================
 
 
 ===================[ Beta v3.0.0.1 ]====================
 + Release Date: 24.11.2021
-* Fixed parsing error, when player owns villages, but looses all towns on given island
+
+Bug Fixes:
+- Fixed parsing error, when player owns villages, but looses all towns on given island
 ===================================================
 
 
@@ -19,7 +38,9 @@
 
 ===================[ Beta v2.1.3.3 ]====================
 + Release Date: 3.11.2021
-* Button for resizing now does NOT show when bot is fullscreen
+
+Bug Fixes:
+- Button for resizing now does NOT show when bot is fullscreen
 ===================================================
 
 
@@ -27,6 +48,7 @@
 + Release Date: 25.10.2021
 * GrepoBot can now be resized via bottom left corner when on Web Browser
 ===================================================
+
 
 ===================[ Beta v2.1.3.1 ]====================
 + Release Date: 22.10.2021
